@@ -1,30 +1,146 @@
+<div align="center">
+
+<img src="./assets/Bannar.png" width="100%" alt="Md. Emran Hossain - Full Stack Developer"/>
+
+<br/>
+
+<a href="https://github.com/Emransani01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+React;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing animation"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Emransani01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Md. Emran Hossain**, a passionate **Full Stack Developer** focused on creating modern, responsive and user-friendly web applications.
+
+- 💻 Learning and building with modern web technologies
+- 🌱 Continuously improving my JavaScript, TypeScript and full-stack skills
+- 🚀 Interested in real-world projects and collaboration
+- 🎯 Goal: grow into a professional Full Stack Developer
+- 📫 Email: **mdemranhossain.dev@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" alt="Frontend skills"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend skills"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> Replace the links below with your newest/best repositories if the repository names change.
+
+| Project | Description | Tech |
+|---|---|---|
+| **Assignment 1** | Frontend practice project | CSS |
+| **Assignment 2** | JavaScript practice project | JavaScript |
+| **Assignment 3** | JavaScript learning project | JavaScript |
+| **CSS for Beginners** | HTML/CSS fundamentals | HTML, CSS |
+| **Footer** | Website footer implementation | HTML |
+| **Assignment 4** | TypeScript practice project | TypeScript |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" height="170" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="170" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Emransani01&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emransani01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Emransani01/Emransani01/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
 <p align="center">
-  <img src="./Bannar.png" alt="Banner" width="100%">
-</p>
-<h1 align="center">Hi 👋, I'm Md.Emran Hossain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **Upcoming**
-
-- 👯 I’m looking to collaborate on **Upcoming**
-
-- 🤝 I’m looking for help with **Upcoming**
-
-- 📫 How to reach me **emransani01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/emran hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emran hossain" height="30" width="40" /></a>
-<a href="https://fb.com/emran hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emran hossain" height="30" width="40" /></a>
-<a href="https://instagram.com/emran hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emran hossain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/emran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emran" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb" alt="Currently learning"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emransani01&show_icons=true&locale=en&layout=compact" alt="emransani01" /></p>
+**Learn → Build → Debug → Improve → Repeat 🚀**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emransani01&show_icons=true&locale=en" alt="emransani01" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emransani01&" alt="emransani01" /></p>
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mdemranhossain.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<!-- Replace these placeholders with your real profiles -->
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Let's build something awesome together. 🚀**
+
+</div>
