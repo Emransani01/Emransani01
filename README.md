@@ -1,146 +1,170 @@
-<div align="center">
-
-<img src="./assets/Bannar.png" width="100%" alt="Md. Emran Hossain - Full Stack Developer"/>
-
-<br/>
-
-<a href="https://github.com/Emransani01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+React;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing animation"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Emransani01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Md. Emran Hossain**, a passionate **Full Stack Developer** focused on creating modern, responsive and user-friendly web applications.
-
-- 💻 Learning and building with modern web technologies
-- 🌱 Continuously improving my JavaScript, TypeScript and full-stack skills
-- 🚀 Interested in real-world projects and collaboration
-- 🎯 Goal: grow into a professional Full Stack Developer
-- 📫 Email: **mdemranhossain.dev@gmail.com**
-
----
-
-## 🧰 Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" alt="Frontend skills"/>
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend skills"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Tools"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-> Replace the links below with your newest/best repositories if the repository names change.
-
-| Project | Description | Tech |
-|---|---|---|
-| **Assignment 1** | Frontend practice project | CSS |
-| **Assignment 2** | JavaScript practice project | JavaScript |
-| **Assignment 3** | JavaScript learning project | JavaScript |
-| **CSS for Beginners** | HTML/CSS fundamentals | HTML, CSS |
-| **Footer** | Website footer implementation | HTML |
-| **Assignment 4** | TypeScript practice project | TypeScript |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" height="170" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="170" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Emransani01&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emransani01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Emransani01/Emransani01/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
+<!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb" alt="Currently learning"/>
+  <img
+    src="./Bannar.png"
+    alt="Md. Emran Hossain - Full Stack Developer"
+    width="100%"
+  />
 </p>
 
-<div align="center">
+<!-- ========================= TYPING ANIMATION ========================= -->
 
-**Learn → Build → Debug → Improve → Repeat 🚀**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.Emran+Hossain;Frontend+Developer;Passionate+Web+Developer;Building+Modern+Web+Experiences;Always+Learning+%26+Improving+%F0%9F%9A%80"
+    alt="Typing Animation"
+  />
+</p>
 
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:mdemranhossain.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<!-- Replace these placeholders with your real profiles -->
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="YOUR_FACEBOOK_URL">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=emransani01&label=Profile%20Views&color=6366f1&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-### 💙 Thanks for visiting my profile!
+Hello! I'm **Md.Emran Hossain**, a passionate **Frontend Developer from Bangladesh 🇧🇩**.
 
-**Let's build something awesome together. 🚀**
+I enjoy creating modern, responsive and user-friendly web interfaces.  
+I'm continuously learning new technologies and improving my development skills by building real-world projects.
 
-</div>
+- 🔭 Currently working on **Upcoming Projects**
+- 🌱 Currently improving my **Frontend Development Skills**
+- 💻 Passionate about **Modern Web Development**
+- 🤝 Open to **collaboration and learning opportunities**
+- 🎯 Goal: Become a professional Full Stack Developer
+- 📫 Email: **emransani01@gmail.com**
+
+---
+
+# 🛠️ Languages & Tools
+
+### 💻 Frontend Development
+
+<p align="left">
+
+<a href="https://www.w3.org/html/">
+<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
+</a>
+
+<a href="https://www.w3schools.com/css/">
+<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"/>
+</a>
+
+</p>
+
+### ☕ Programming & Design
+
+<p align="left">
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html">
+<img src="https://skillicons.dev/icons?i=ai" width="50" alt="Adobe Illustrator"/>
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html">
+<img src="https://skillicons.dev/icons?i=ps" width="50" alt="Adobe Photoshop"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+  height="180"
+  alt="Top Languages"
+/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=emransani01&theme=tokyonight&hide_border=true&border_radius=15"
+  alt="GitHub Streak"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=emransani01&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="Contribution Activity"
+/>
+
+</p>
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/emransani01/emransani01/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</p>
+
+---
+
+# 🚀 My Development Journey
+
+```text
+HTML & CSS
+     ↓
+JavaScript
+     ↓
+React
+     ↓
+TypeScript
+     ↓
+Modern Frontend Development
+     ↓
+Full Stack Development 🚀
