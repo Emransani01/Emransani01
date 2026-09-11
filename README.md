@@ -8,87 +8,113 @@
   />
 </p>
 
-<!-- ========================= TYPING ANIMATION ========================= -->
+<!-- ========================= INTRO ========================= -->
+
+<h1 align="center">Hi 👋, I'm Md. Emran Hossain</h1>
+
+<p align="center">
+  <strong>Full Stack Developer in Training • Mechanical Diploma Engineer • Lifelong Learner</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emransani01">
+    <img src="https://img.shields.io/badge/GitHub-Emransani01-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/Emransani40/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://x.com/MdEmranSani">
+    <img src="https://img.shields.io/badge/X-MdEmranSani-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:emransani01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.Emran+Hossain;Frontend+Developer;Passionate+Web+Developer;Building+Modern+Web+Experiences;Always+Learning+%26+Improving+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+Training;Frontend+Developer;Mechanical+Diploma+Engineer;Building+Modern+Web+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80"
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=emransani01&label=Profile%20Views&color=6366f1&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Emransani01&label=Profile%20Views&color=6366f1&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hello! I'm **Md.Emran Hossain**, a passionate **Frontend Developer from Bangladesh 🇧🇩**.
+Hello! I'm **Md. Emran Hossain**, a **Mechanical Diploma Engineer** from Bangladesh who is currently building a new career in **Full Stack Web Development**.
 
-I enjoy creating modern, responsive and user-friendly web interfaces.  
-I'm continuously learning new technologies and improving my development skills by building real-world projects.
+My engineering background has helped me develop problem-solving skills, technical thinking, discipline, and a practical approach to learning.
 
-- 🔭 Currently working on **Upcoming Projects**
-- 🌱 Currently improving my **Frontend Development Skills**
-- 💻 Passionate about **Modern Web Development**
-- 🤝 Open to **collaboration and learning opportunities**
-- 🎯 Goal: Become a professional Full Stack Developer
-- 📫 Email: **emransani01@gmail.com**
+Now I'm focused on developing modern, responsive, and user-friendly web applications while continuously improving my programming skills.
+
+* 🇧🇩 Based in **Rampal, Bagerhat, Bangladesh**
+* 🎓 **Diploma Engineer in Mechanical Engineering**
+* 💻 Currently learning **Full Stack Development**
+* 🌱 Improving my skills in **React, TypeScript, JavaScript & modern web technologies**
+* 🚀 Interested in building **real-world web applications**
+* 🤝 Open to learning, collaboration and developer opportunities
+* 🎯 Goal: Become a skilled **Professional Full Stack Developer**
+* 📧 Email: **[emransani01@gmail.com](mailto:emransani01@gmail.com)**
 
 ---
 
-# 🛠️ Languages & Tools
+# 🧑‍💻 My Current Focus
 
-### 💻 Frontend Development
+```text
+Frontend Development
+        ↓
+React + TypeScript
+        ↓
+Modern UI & Responsive Design
+        ↓
+Backend Development
+        ↓
+Database & API Integration
+        ↓
+Full Stack Development 🚀
+```
 
-<p align="left">
+---
 
-<a href="https://www.w3.org/html/">
-<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
-</a>
+# 🛠️ Tech Stack
 
-<a href="https://www.w3schools.com/css/">
-<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
-</a>
+## 🌐 Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
-</a>
+<p align="center">
 
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Technologies"/>
 
 </p>
 
-### ☕ Programming & Design
+## ⚙️ Backend & Database
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
 
-<a href="https://www.adobe.com/products/illustrator.html">
-<img src="https://skillicons.dev/icons?i=ai" width="50" alt="Adobe Illustrator"/>
-</a>
+</p>
 
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://skillicons.dev/icons?i=ps" width="50" alt="Adobe Photoshop"/>
-</a>
+## 🔧 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" alt="Development Tools"/>
+
+</p>
+
+## ☕ Programming & Design
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,ai,ps" alt="Programming and Design Tools"/>
 
 </p>
 
@@ -99,15 +125,15 @@ I'm continuously learning new technologies and improving my development skills b
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true"
-  height="180"
-  alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=Emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true"
+height="180"
+alt="GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-  height="180"
-  alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+height="180"
+alt="Top Languages"
 />
 
 </p>
@@ -119,8 +145,8 @@ I'm continuously learning new technologies and improving my development skills b
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=emransani01&theme=tokyonight&hide_border=true&border_radius=15"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=Emransani01&theme=tokyonight&hide_border=true&border_radius=15"
+alt="GitHub Streak Statistics"
 />
 
 </p>
@@ -132,9 +158,9 @@ I'm continuously learning new technologies and improving my development skills b
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=emransani01&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Contribution Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Emransani01&theme=tokyo-night&hide_border=true&area=true"
+width="100%"
+alt="GitHub Contribution Activity"
 />
 
 </p>
@@ -147,36 +173,142 @@ I'm continuously learning new technologies and improving my development skills b
 
 <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/emransani01/emransani01/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Emransani01/Emransani01/gh-pages/github-contribution-grid-snake-dark.svg"
+/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/emransani01/emransani01/gh-pages/github-contribution-grid-snake.svg"
-  />
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Emransani01/Emransani01/gh-pages/github-contribution-grid-snake.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/emransani01/emransani01/gh-pages/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+<img
+ src="https://raw.githubusercontent.com/Emransani01/Emransani01/gh-pages/github-contribution-grid-snake.svg"
+ alt="GitHub Contribution Snake"
+/>
 
 </picture>
 
 </p>
 
+---
 
-# 🚀 My Development Journey
+# 🚀 Development Journey
 
+```text
+Mechanical Engineering
+        ↓
+Technical & Problem-Solving Skills
+        ↓
 HTML & CSS
-     ↓
+        ↓
 JavaScript
-     ↓
+        ↓
 React
-     ↓
+        ↓
 TypeScript
-     ↓
+        ↓
 Modern Frontend Development
-     ↓
-Full Stack Development 🚀
+        ↓
+Backend Development
+        ↓
+Database & APIs
+        ↓
+Full Stack Developer 🚀
+```
+
+---
+
+# 🎯 2026 Learning Goals
+
+* ✅ Strengthen HTML & CSS fundamentals
+* ✅ Improve JavaScript skills
+* 🔄 Master React & TypeScript
+* 🔄 Learn backend development
+* 🔄 Build REST APIs
+* 🔄 Work with databases
+* 🔄 Build complete Full Stack applications
+* 🚀 Create production-ready projects
+
+---
+
+# 💼 What I Like Building
+
+```text
+🌐 Responsive Websites
+🖥️ Modern Web Applications
+⚛️ React Applications
+📱 Mobile-Friendly Interfaces
+🔐 Full Stack Applications
+🗄️ Database-Driven Applications
+🔗 REST APIs
+🎨 Clean & User-Friendly UI
+```
+
+---
+
+# 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Emransani01">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Emransani01&repo=devstack&theme=tokyonight&hide_border=true"
+    alt="DevStack Project"
+  />
+</a>
+
+</p>
+
+> More projects are coming as I continue my Full Stack Development journey.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Emransani01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.facebook.com/Emransani40/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://x.com/MdEmranSani">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="mailto:emransani01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+# 💡 My Philosophy
+
+<p align="center">
+
+<strong>
+"Keep Learning • Keep Building • Keep Improving 🚀"
+</strong>
+
+</p>
+
+<p align="center">
+Every project is an opportunity to learn something new and become a better developer.
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" alt="Footer"/>
+
+</p>
