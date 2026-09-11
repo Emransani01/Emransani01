@@ -146,6 +146,7 @@ I'm continuously learning new technologies and improving my development skills b
 <p align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/emransani01/emransani01/gh-pages/github-contribution-grid-snake-dark.svg"
@@ -160,15 +161,14 @@ I'm continuously learning new technologies and improving my development skills b
     src="https://raw.githubusercontent.com/emransani01/emransani01/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
+
 </picture>
 
 </p>
 
----
 
 # 🚀 My Development Journey
 
-```text
 HTML & CSS
      ↓
 JavaScript
