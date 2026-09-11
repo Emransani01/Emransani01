@@ -8,8 +8,6 @@
   />
 </p>
 
-<!-- ========================= INTRO ========================= -->
-
 <h1 align="center">Hi 👋, I'm Md. Emran Hossain</h1>
 
 <p align="center">
@@ -68,7 +66,6 @@ Now I'm focused on developing modern, responsive, and user-friendly web applicat
 
 # 🧑‍💻 My Current Focus
 
-```text
 Frontend Development
         ↓
 React + TypeScript
@@ -80,42 +77,33 @@ Backend Development
 Database & API Integration
         ↓
 Full Stack Development 🚀
-```
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Technologies"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Technologies"/>
 </p>
 
-## ⚙️ Backend & Database
+### ⚙️ Backend & Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database Technologies"/>
 </p>
 
-## 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" alt="Development Tools"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools"/>
 </p>
 
-## ☕ Programming & Design
+### 🎨 Design
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,ai,ps" alt="Programming and Design Tools"/>
-
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design Tools"/>
 </p>
 
 ---
@@ -123,17 +111,16 @@ Full Stack Development 🚀
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true"
-height="180"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-height="180"
-alt="Top Languages"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+ height="180"
+ alt="Top Languages"
 />
 
 </p>
@@ -143,12 +130,16 @@ alt="Top Languages"
 # 🔥 GitHub Streak
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=Emransani01&theme=tokyonight&hide_border=true&border_radius=15"
+      alt="GitHub Streak Statistics"
+    />
+  </a>
+</p>
 
-<img
-src="https://streak-stats.demolab.com?user=Emransani01&theme=tokyonight&hide_border=true&border_radius=15"
-alt="GitHub Streak Statistics"
-/>
-
+<p align="center">
+  <strong>Consistency • Contribution • Continuous Learning 🚀</strong>
 </p>
 
 ---
@@ -156,18 +147,18 @@ alt="GitHub Streak Statistics"
 # 📈 Contribution Activity
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Emransani01&theme=tokyo-night&hide_border=true&area=true"
-width="100%"
-alt="GitHub Contribution Activity"
-/>
-
+  <a href="https://github.com/Emransani01">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Emransani01&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="GitHub Contribution Activity"
+    />
+  </a>
 </p>
 
 ---
 
-# 🐍 My Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -194,9 +185,25 @@ alt="GitHub Contribution Activity"
 
 ---
 
-# 🚀 Development Journey
+# 🚀 Developer Overview
 
-```text
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-6366F1?style=for-the-badge" alt="Full Stack Development"/>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%26%20TypeScript-61DAFB?style=for-the-badge" alt="React and TypeScript"/>
+
+<img src="https://img.shields.io/badge/Backend-Learning%20in%20Progress-339933?style=for-the-badge" alt="Backend Development"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Engineering%20Mindset-FF6F61?style=for-the-badge" alt="Engineering Mindset"/>
+
+</p>
+
+---
+
+# 🧭 My Development Journey
+
+
 Mechanical Engineering
         ↓
 Technical & Problem-Solving Skills
@@ -216,7 +223,6 @@ Backend Development
 Database & APIs
         ↓
 Full Stack Developer 🚀
-```
 
 ---
 
@@ -225,26 +231,28 @@ Full Stack Developer 🚀
 * ✅ Strengthen HTML & CSS fundamentals
 * ✅ Improve JavaScript skills
 * 🔄 Master React & TypeScript
-* 🔄 Learn backend development
+* 🔄 Learn Backend Development
 * 🔄 Build REST APIs
-* 🔄 Work with databases
-* 🔄 Build complete Full Stack applications
-* 🚀 Create production-ready projects
+* 🔄 Work with Databases
+* 🔄 Build Complete Full Stack Applications
+* 🚀 Create Production-Ready Projects
 
 ---
 
 # 💼 What I Like Building
 
-```text
-🌐 Responsive Websites
-🖥️ Modern Web Applications
-⚛️ React Applications
-📱 Mobile-Friendly Interfaces
-🔐 Full Stack Applications
-🗄️ Database-Driven Applications
-🔗 REST APIs
-🎨 Clean & User-Friendly UI
-```
+<p align="center">
+
+🌐 **Responsive Websites**
+🖥️ **Modern Web Applications**
+⚛️ **React Applications**
+📱 **Mobile-Friendly Interfaces**
+🔐 **Full Stack Applications**
+🗄️ **Database-Driven Applications**
+🔗 **REST APIs**
+🎨 **Clean & User-Friendly UI**
+
+</p>
 
 ---
 
@@ -252,7 +260,7 @@ Full Stack Developer 🚀
 
 <p align="center">
 
-<a href="https://github.com/Emransani01">
+<a href="https://github.com/Emransani01/devstack">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=Emransani01&repo=devstack&theme=tokyonight&hide_border=true"
     alt="DevStack Project"
@@ -261,7 +269,38 @@ Full Stack Developer 🚀
 
 </p>
 
-> More projects are coming as I continue my Full Stack Development journey.
+<p align="center">
+  <strong>🚀 More projects are coming as I continue my Full Stack Development journey.</strong>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+
+<img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+<img src="https://img.shields.io/badge/Backend-Learning-339933?style=for-the-badge" alt="Backend"/>
+
+<img src="https://img.shields.io/badge/API-Development-009688?style=for-the-badge" alt="API Development"/>
+
+<img src="https://img.shields.io/badge/Database-Learning-47A248?style=for-the-badge" alt="Database"/>
+
+</p>
+
+---
+
+# 📈 GitHub Profile Summary
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emransani01&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
+</p>
 
 ---
 
@@ -294,7 +333,7 @@ Full Stack Developer 🚀
 <p align="center">
 
 <strong>
-"Keep Learning • Keep Building • Keep Improving 🚀"
+Keep Learning • Keep Building • Keep Improving 🚀
 </strong>
 
 </p>
@@ -307,8 +346,13 @@ Every project is an opportunity to learn something new and become a better devel
 
 <p align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+<strong>⭐ Thanks for visiting my GitHub profile!</strong>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" alt="Footer"/>
+</p>
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"
+    alt="Footer"
+  />
 </p>
