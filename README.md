@@ -144,19 +144,6 @@ Full Stack Development 🚀
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Emransani01">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Emransani01&theme=tokyo-night&hide_border=true&area=true"
-      width="100%"
-      alt="GitHub Contribution Activity"
-    />
-  </a>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
