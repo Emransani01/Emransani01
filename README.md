@@ -27,24 +27,21 @@
       alt="GitHub"
     />
   </a>
+
   <a href="https://www.linkedin.com/in/emran-hossain-ab4675b1/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
+
   <a href="https://www.facebook.com/Emransani40/">
     <img
       src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="Facebook"
     />
   </a>
-  <a href="https://x.com/MdEmranSani">
-    <img
-      src="https://img.shields.io/badge/X-MdEmranSani-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-    />
-  </a>
+
   <a href="mailto:emransani01@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -81,13 +78,13 @@ I'm focused on building modern, responsive, and user-friendly web applications w
 
 ## 🧑‍💻 What I'm Currently Doing
 
-- 🌱 Learning and strengthening **JavaScript, React, TypeScript and Next.js**
-- 💻 Building real-world web development projects
-- 🎨 Improving modern UI development with **Tailwind CSS**
-- 🔌 Working with **APIs and data-driven applications**
-- 📚 Strengthening frontend development fundamentals
-- 🚀 Gradually expanding my skills toward **Full Stack Development**
-- 🤝 Open to learning, collaboration and developer opportunities
+* 🌱 Learning and strengthening **JavaScript, React, TypeScript and Next.js**
+* 💻 Building real-world web development projects
+* 🎨 Improving modern UI development with **Tailwind CSS**
+* 🔌 Working with **REST APIs and data-driven applications**
+* 📚 Strengthening frontend development fundamentals
+* 🚀 Expanding my skills toward **Full Stack Development**
+* 🤝 Open to learning, collaboration and developer opportunities
 
 ---
 
@@ -98,7 +95,16 @@ I'm focused on building modern, responsive, and user-friendly web applications w
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"
-    alt="Frontend Technologies"
+    alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS"
+  />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
+    alt="Node.js Express.js MongoDB"
   />
 </p>
 
@@ -106,25 +112,17 @@ I'm focused on building modern, responsive, and user-friendly web applications w
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,npm"
-    alt="Development Tools"
+    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel"
+    alt="Git GitHub VS Code npm Vercel"
   />
 </p>
 
-### 📚 Currently Exploring
+### 📡 APIs & Development
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Backend-Learning-339933?style=for-the-badge"
-    alt="Backend Development"
-  />
-  <img
-    src="https://img.shields.io/badge/REST%20API-Exploring-009688?style=for-the-badge"
-    alt="REST API"
-  />
-  <img
-    src="https://img.shields.io/badge/Database-Exploring-47A248?style=for-the-badge"
-    alt="Database"
+    src="https://skillicons.dev/icons?i=postman"
+    alt="Postman"
   />
 </p>
 
@@ -134,40 +132,67 @@ I'm focused on building modern, responsive, and user-friendly web applications w
 
 ### 📰 Bangla News 24
 
-A responsive Bangla news website built with **Next.js, TypeScript and Tailwind CSS**, using a news API to provide latest news, categories, most-read articles and detailed article pages.
+A modern and responsive Bangla news website built with **Next.js, React, TypeScript and Tailwind CSS**. The application uses a REST API to provide latest news, categories, most-read stories and detailed article pages.
 
-**Main areas include:**
+**Main Features:**
 
-- Latest news
-- News categories
-- Most-read articles
-- Article details
-- Loading states
-- Error handling
-- Responsive user interface
+* 📰 Latest Bangla news
+* 📂 News categories
+* 📖 Detailed article pages
+* 🔥 Most-read news
+* 📢 Latest news marquee
+* ⏳ Loading skeletons
+* ❌ Custom 404 page
+* ⚠️ Error handling
+* 📱 Fully responsive design
 
-🔗 **Repository:**  
+**Tech Stack:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Next.js React TypeScript Tailwind CSS" />
+</p>
+
+**Links:**
+
+🔗 **Repository:**
 https://github.com/Emransani01/Bangla-News-24
+
+🌐 **Live Website:**
+https://bangla-news-24-virid.vercel.app/
 
 ---
 
 ### 🏋️ FitLog
 
-A responsive workout library and daily workout planning application built with **Next.js, React, TypeScript and Tailwind CSS**.
+A responsive workout library and daily workout planning application built with **Next.js, React, TypeScript and Tailwind CSS**. Users can browse workouts, view detailed information, create a daily plan, save workouts and manage their selected workouts.
 
-Users can explore workouts, view workout details, create a daily workout plan and save workouts for later.
+**Main Features:**
 
-**Main areas include:**
+* 🏋️ Workout library
+* 📋 Workout details
+* 📅 Daily workout planning
+* 💾 Save workouts
+* ✅ Mark workouts as completed
+* 🔢 Plan and saved counters
+* 🔀 Workout sorting
+* 💾 Browser LocalStorage
+* 🔔 Toast notifications
+* ❌ Custom 404 page
+* 📱 Responsive design
 
-- Workout library
-- Workout details
-- Daily workout planning
-- Save workouts
-- Client-side workout management
-- Responsive interface
+**Tech Stack:**
 
-🔗 **Repository:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Next.js React TypeScript Tailwind CSS" />
+</p>
+
+**Links:**
+
+🔗 **Repository:**
 https://github.com/Emransani01/fit-log
+
+🌐 **Live Website:**
+https://fit-log-nu-one.vercel.app/
 
 ---
 
@@ -180,11 +205,12 @@ https://github.com/Emransani01/fit-log
     alt="GitHub Statistics"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-    height="180"
-    alt="Top Languages"
-  />
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+ height="180"
+ alt="Top Languages"
+/>
+
 </p>
 
 ---
@@ -196,10 +222,6 @@ https://github.com/Emransani01/fit-log
     src="https://streak-stats.demolab.com/?user=Emransani01&theme=tokyonight&hide_border=true&border_radius=15"
     alt="GitHub Streak Statistics"
   />
-</p>
-
-<p align="center">
-  <strong>Consistency • Contribution • Continuous Learning 🚀</strong>
 </p>
 
 ---
@@ -217,51 +239,20 @@ https://github.com/Emransani01/fit-log
 
 ## 🎯 2026 Learning Goals
 
-- ✅ Strengthen HTML & CSS fundamentals
-- 🔄 Improve JavaScript skills
-- 🔄 Master React & TypeScript
-- 🔄 Build projects with Next.js
-- 🔄 Learn backend development
-- 🔄 Build and consume REST APIs
-- 🔄 Learn database integration
-- 🚀 Build complete Full Stack applications
-- 💼 Prepare for professional web development opportunities
-
----
-
-## 💼 What I Like Building
-
-<p align="center">
-
-🌐 **Responsive Websites** &nbsp; • &nbsp;
-🖥️ **Modern Web Applications** &nbsp; • &nbsp;
-⚛️ **React Applications**
-
-<br />
-
-🚀 **Next.js Applications** &nbsp; • &nbsp;
-📱 **User-Friendly Interfaces** &nbsp; • &nbsp;
-🔗 **API-Driven Applications**
-
-<br />
-
-🎨 **Clean & Modern UI** &nbsp; • &nbsp;
-🗄️ **Data-Driven Applications**
-
-</p>
+* 🔄 Improve JavaScript skills
+* 🔄 Master React & TypeScript
+* 🔄 Build projects with Next.js
+* 🔄 Learn backend development
+* 🔄 Build and consume REST APIs
+* 🔄 Learn database integration
+* 🚀 Build complete Full Stack applications
+* 💼 Prepare for professional web development opportunities
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Emransani01">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"
-    alt="GitHub"
-  />
-</a>
 
 <a href="https://www.linkedin.com/in/emran-hossain-ab4675b1/">
   <img
@@ -274,13 +265,6 @@ https://github.com/Emransani01/fit-log
   <img
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
     alt="Facebook"
-  />
-</a>
-
-<a href="https://x.com/MdEmranSani">
-  <img
-    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
   />
 </a>
 
