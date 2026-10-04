@@ -1,199 +1,175 @@
-<!-- ========================= BANNER ========================= -->
+<!-- ===================================================== -->
+<!--                    PROFILE BANNER                     -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img
-    src="./Bannar.png"
-    alt="Md. Emran Hossain - Full Stack Developer"
+    src="YOUR_EXISTING_BANNER_URL"
+    alt="Md. Emran Hossain GitHub Profile Banner"
     width="100%"
   />
 </p>
 
+<!-- ===================================================== -->
+<!--                    INTRODUCTION                       -->
+<!-- ===================================================== -->
+
 <h1 align="center">Hi 👋, I'm Md. Emran Hossain</h1>
 
+<h3 align="center">
+  Full Stack Developer in Training | React • Next.js • TypeScript
+</h3>
+
 <p align="center">
-  <strong>Full Stack Developer in Training • Mechanical Diploma Engineer • Lifelong Learner</strong>
+  Building modern, responsive and user-friendly web applications while continuously improving my development skills.
 </p>
 
 <p align="center">
   <a href="https://github.com/Emransani01">
-    <img src="https://img.shields.io/badge/GitHub-Emransani01-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://komarev.com/ghpvc/?username=Emransani01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://www.facebook.com/Emransani40/">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://x.com/MdEmranSani">
-    <img src="https://img.shields.io/badge/X-MdEmranSani-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:emransani01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+Training;Frontend+Developer;Mechanical+Diploma+Engineer;Building+Modern+Web+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80"
-    alt="Typing Animation"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Emransani01&label=Profile%20Views&color=6366f1&style=for-the-badge"
-    alt="Profile Views"
-  />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Md. Emran Hossain**, a **Mechanical Diploma Engineer** from Bangladesh who is currently building a new career in **Full Stack Web Development**.
+Hi, I'm **Md. Emran Hossain**, a Mechanical Diploma Engineer from Bangladesh currently transitioning into **Full Stack Web Development**.
 
-My engineering background has helped me develop problem-solving skills, technical thinking, discipline, and a practical approach to learning.
+My engineering background has helped me develop strong problem-solving skills, technical thinking, discipline, and a practical approach to learning.
 
-Now I'm focused on developing modern, responsive, and user-friendly web applications while continuously improving my programming skills.
-
-* 🇧🇩 Based in **Rampal, Bagerhat, Bangladesh**
-* 🎓 **Diploma Engineer in Mechanical Engineering**
-* 💻 Currently learning **Full Stack Development**
-* 🌱 Improving my skills in **React, TypeScript, JavaScript & modern web technologies**
-* 🚀 Interested in building **real-world web applications**
-* 🤝 Open to learning, collaboration and developer opportunities
-* 🎯 Goal: Become a skilled **Professional Full Stack Developer**
-* 📧 Email: **[emransani01@gmail.com](mailto:emransani01@gmail.com)**
+I'm focused on building modern, responsive, and user-friendly web applications while continuously improving my skills and exploring new technologies.
 
 ---
 
-# 🧑‍💻 My Current Focus
+## 🧑‍💻 What I'm Currently Doing
 
-Frontend Development
-        ↓
-React + TypeScript
-        ↓
-Modern UI & Responsive Design
-        ↓
-Backend Development
-        ↓
-Database & API Integration
-        ↓
-Full Stack Development 🚀
+- 🌱 Learning and strengthening **React, Next.js, TypeScript and JavaScript**
+- 💻 Building real-world web development projects
+- 🎨 Improving modern UI development with **Tailwind CSS**
+- 🔌 Learning **APIs, backend development and database integration**
+- 🚀 Practicing how to build complete and production-ready applications
+- 📚 Continuously improving my programming and problem-solving skills
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Technologies"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS" />
 </p>
 
 ### ⚙️ Backend & Database
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database Technologies"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB" />
 </p>
 
 ### 🔧 Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools"/>
-</p>
-
-### 🎨 Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design Tools"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" alt="npm" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 📰 Bangla News 24
+
+A modern Bangla news website built with **Next.js, TypeScript and Tailwind CSS**, using a news API to display latest news, categories, most-read articles and article details.
+
+🔗 **Repository:**  
+https://github.com/Emransani01/Bangla-News-24
+
+> Live project link will be added after confirming the actual deployed URL.
+
+---
+
+### 🏋️ FitLog
+
+A workout library and daily workout planning application built with **Next.js, React, TypeScript and Tailwind CSS**.
+
+Users can explore workouts, view workout details, create a daily workout plan and save workouts for later.
+
+🔗 **Repository:**  
+https://github.com/Emransani01/fit-log
+
+> Live project link will be added after confirming the actual deployed URL.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Emransani01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true"
-    height="180"
-    alt="GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Emransani01&show_icons=true&hide_border=true&count_private=true"
+    alt="Emran's GitHub Statistics"
   />
+</p>
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
- height="180"
- alt="Top Languages"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emransani01&layout=compact&hide_border=true"
+    alt="Emran's Top Languages"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Emransani01&hide_border=true"
+    alt="Emran's GitHub Streak"
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🎯 2026 Learning Goals
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=Emransani01&theme=tokyonight&hide_border=true&border_radius=15"
-      alt="GitHub Streak Statistics"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Consistency • Contribution • Continuous Learning 🚀</strong>
-</p>
+- ✅ Strengthen HTML & CSS fundamentals
+- 🔄 Improve JavaScript skills
+- 🔄 Master React & TypeScript
+- 🔄 Build projects with Next.js
+- 🔄 Learn backend development
+- 🔄 Work with REST APIs
+- 🔄 Learn database integration
+- 🚀 Build complete Full Stack applications
+- 💼 Prepare for professional web development opportunities
 
 ---
 
+## 💼 What I Like Building
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/Emransani01/Emransani01/gh-pages/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Emransani01/Emransani01/gh-pages/github-contribution-grid-snake.svg"
-/>
-
-<img
- src="https://raw.githubusercontent.com/Emransani01/Emransani01/gh-pages/github-contribution-grid-snake.svg"
- alt="GitHub Contribution Snake"
-/>
-
-</picture>
-
-</p>
+- 🌐 Responsive Websites
+- 🖥️ Modern Web Applications
+- ⚛️ React Applications
+- 🚀 Next.js Applications
+- 📱 User-friendly Interfaces
+- 🔗 API-driven Applications
+- 🗄️ Database-connected Applications
+- 🎨 Clean and Modern UI
 
 ---
 
-# 🚀 Developer Overview
+## 🧭 My Development Journey
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-6366F1?style=for-the-badge" alt="Full Stack Development"/>
-
-<img src="https://img.shields.io/badge/Frontend-React%20%26%20TypeScript-61DAFB?style=for-the-badge" alt="React and TypeScript"/>
-
-<img src="https://img.shields.io/badge/Backend-Learning%20in%20Progress-339933?style=for-the-badge" alt="Backend Development"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Engineering%20Mindset-FF6F61?style=for-the-badge" alt="Engineering Mindset"/>
-
-</p>
-
----
-
-# 🧭 My Development Journey
-
-
+```text
 Mechanical Engineering
         ↓
-Technical & Problem-Solving Skills
+Problem-Solving & Technical Thinking
         ↓
 HTML & CSS
         ↓
@@ -203,143 +179,10 @@ React
         ↓
 TypeScript
         ↓
-Modern Frontend Development
+Next.js
         ↓
-Backend Development
+Backend & APIs
         ↓
-Database & APIs
+Database Integration
         ↓
-Full Stack Developer 🚀
-
----
-
-# 🎯 2026 Learning Goals
-
-* ✅ Strengthen HTML & CSS fundamentals
-* ✅ Improve JavaScript skills
-* 🔄 Master React & TypeScript
-* 🔄 Learn Backend Development
-* 🔄 Build REST APIs
-* 🔄 Work with Databases
-* 🔄 Build Complete Full Stack Applications
-* 🚀 Create Production-Ready Projects
-
----
-
-# 💼 What I Like Building
-
-<p align="center">
-
-🌐 **Responsive Websites**
-🖥️ **Modern Web Applications**
-⚛️ **React Applications**
-📱 **Mobile-Friendly Interfaces**
-🔐 **Full Stack Applications**
-🗄️ **Database-Driven Applications**
-🔗 **REST APIs**
-🎨 **Clean & User-Friendly UI**
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Emransani01/devstack">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Emransani01&repo=devstack&theme=tokyonight&hide_border=true"
-    alt="DevStack Project"
-  />
-</a>
-
-</p>
-
-<p align="center">
-  <strong>🚀 More projects are coming as I continue my Full Stack Development journey.</strong>
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-
-<img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-
-<img src="https://img.shields.io/badge/Backend-Learning-339933?style=for-the-badge" alt="Backend"/>
-
-<img src="https://img.shields.io/badge/API-Development-009688?style=for-the-badge" alt="API Development"/>
-
-<img src="https://img.shields.io/badge/Database-Learning-47A248?style=for-the-badge" alt="Database"/>
-
-</p>
-
----
-
-# 📈 GitHub Profile Summary
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emransani01&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Emransani01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://www.facebook.com/Emransani40/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<a href="https://x.com/MdEmranSani">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-
-<a href="mailto:emransani01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
-
----
-
-# 💡 My Philosophy
-
-<p align="center">
-
-<strong>
-Keep Learning • Keep Building • Keep Improving 🚀
-</strong>
-
-</p>
-
-<p align="center">
-Every project is an opportunity to learn something new and become a better developer.
-</p>
-
----
-
-<p align="center">
-
-<strong>⭐ Thanks for visiting my GitHub profile!</strong>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"
-    alt="Footer"
-  />
-</p>
+Full Stack Development 🚀
